@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.legu360.com</string>
+				<string>com.legu360.legu</string>
 				<key>bundle-version</key>
 				<string>1.0.4</string>
 				<key>kind</key>
